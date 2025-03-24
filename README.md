@@ -20,16 +20,19 @@ A Flutter application for reporting and monitoring water bodies with geolocation
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/water-body-reporter.git
-
+```
 2.Navigate to project directory:
+```bash
 cd water-body-reporter
-
+```
 3.Install dependencies:
+```bash
 flutter pub get
-
+```
 4.Running the app
+```bash
 flutter run
-
+```
 Usage
 1.Submit a Report:
 
