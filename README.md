@@ -33,29 +33,20 @@ flutter pub get
 ```bash
 flutter run
 ```
-Usage
-1.Submit a Report:
+## Usage
 
-Click the floating action button (+)
+### 1. Submit a Report:
+- Click the floating action button (**+**)
+- Choose **camera** or **gallery** for photos
+- Add **title** and **description**
+- Submit to **save with current location**
 
-Choose camera or gallery for photos
+### 2. View Reports:
+- Tap **map markers** to see details
+- Click **list icon (📋)** to view all reports
+- Click **location icon (🎯)** to recenter map
 
-Add title and description
-
-Submit to save with current location
-
-2.View Reports:
-
-Tap map markers to see details
-
-Click list icon (📋) to view all reports
-
-Click location icon (🎯) to recenter map
-
-3.Map Controls:
-
-Pinch to zoom
-
-Drag to pan
-
-Double-tap to zoom in
+### 3. Map Controls:
+- **Pinch** to zoom
+- **Drag** to pan
+- **Double-tap** to zoom in
